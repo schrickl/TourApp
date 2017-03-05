@@ -1,0 +1,132 @@
+<resources>
+
+    <!-- Title for the application -->
+    <string name="app_name">Tour Columbus, Ohio!</string>
+
+    <!-- Category names -->
+    <string name="category_hotels">Hotels</string>
+    <string name="category_osu">Ohio State</string>
+    <string name="category_things">Fun</string>
+    <string name="category_restaurants">Food</string>
+
+    <!-- Hotel names -->
+    <string name="hotel_homewood">Homewood Suites</string>
+    <string name="hotel_blackwell">The Blackwell</string>
+    <string name="hotel_hampton">Hampton Inn &amp; Suites</string>
+    <string name="hotel_hyatt">Hyatt Hotel</string>
+    <string name="hotel_drury">Drury Inn &amp; Suites</string>
+    <string name="hotel_meridien">Le Meridien</string>
+    <string name="hotel_residence">Residence Inn</string>
+    <string name="hotel_holiday">Holiday Inn Express</string>
+
+    <!-- Hotel addresses -->
+    <string name="address_homewood">2045 Polaris Pkwy, Columbus, OH 43240</string>
+    <string name="address_blackwell">2110 Tuttle Park Pl., Columbus, OH 43210</string>
+    <string name="address_hampton">8411 Pulsar Place, Columbus, OH 43240</string>
+    <string name="address_hyatt">795 Yard St., Columbus, OH 43212</string>
+    <string name="address_drury">88 E. Nationwide Blvd., Columbus, OH 43215</string>
+    <string name="address_meridien">620 N. High St., Columbus, OH 43215</string>
+    <string name="address_residence">36 E. Gay St., Columbus, OH 43215</string>
+    <string name="address_holiday">8670 Orion Place, Columbus, OH 43240</string>
+
+    <!-- Hotel URLs -->
+    <string name="url_homewood">http://homewoodsuites3.hilton.com/en/hotels/ohio/homewood-suites-by-hilton-columbus-polaris-oh-CMHPPHW/index.html</string>
+    <string name="url_blackwell">http://www.theblackwell.com/</string>
+    <string name="url_hampton">http://hamptoninn3.hilton.com/en/hotels/ohio/hampton-inn-and-suites-columbus-polaris-CMHPSHX/index.html</string>
+    <string name="url_hyatt">https://columbusosu.place.hyatt.com/en/hotel/home.html</string>
+    <string name="url_drury">https://www.druryhotels.com/locations/columbus-oh/drury-inn-and-suites-columbus-convention-center</string>
+    <string name="url_meridien">http://www.lemeridiencolumbus.com/</string>
+    <string name="url_residence">http://www.marriott.com/hotels/travel/cmhrd-residence-inn-columbus-downtown/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</string>
+    <string name="url_holiday">https://www.ihg.com/holidayinnexpress/hotels/us/en/columbus/wetoh/hoteldetail</string>
+
+    <!-- OSU names-->
+    <string name="osu_stadium">Ohio Stadium</string>
+    <string name="osu_center">Schottenstein Center</string>
+    <string name="osu_hayes">Hayes Hall</string>
+    <string name="osu_howlett">Howlett Hall</string>
+    <string name="osu_union">Ohio Union</string>
+    <string name="osu_orton">Orton Hall</string>
+    <string name="osu_wexner">Wexner Center for the Arts</string>
+    <string name="osu_rpac">Recreation &amp; Physical Activity Center</string>
+
+    <!-- OSU addresses -->
+    <string name="address_stadium">410 Woody Hayes Dr, Columbus, OH 43210</string>
+    <string name="address_center">555 Borror Dr, Columbus, OH 43210</string>
+    <string name="address_hayes">Building 039, 108 N Oval Mall, Columbus, OH 43210</string>
+    <string name="address_howlett">Building 295, 2001 Fyffe Ct, Columbus, OH 43210</string>
+    <string name="address_union">1739 N High St, Columbus, OH 43210</string>
+    <string name="address_orton">Building 060, 155 S Oval Mall, Columbus, OH 43210</string>
+    <string name="address_wexner">1871 N. High St., Columbus, OH 43210</string>
+    <string name="address_rpac">337 Annie and John Glenn Ave, Columbus, OH 43210</string>
+
+    <!-- OSU URLs -->
+    <string name="url_stadium">http://www.ohiostatebuckeyes.com/facilities/ohio-stadium.html</string>
+    <string name="url_center">https://www.schottensteincenter.com/</string>
+    <string name="url_hayes">https://www.osu.edu/map/building.php?building=039</string>
+    <string name="url_howlett">https://www.osu.edu/map/building.php?building=295</string>
+    <string name="url_union">https://ohiounion.osu.edu/</string>
+    <string name="url_orton">https://www.osu.edu/map/building.php?building=060</string>
+    <string name="url_wexner">http://www.wexarts.org/</string>
+    <string name="url_rpac">http://recsports.osu.edu/</string>
+
+    <!-- Restaurant names -->
+    <string name="food_lindeys">Lindey\'s</string>
+    <string name="food_cucina">Z Cucina di Spirito</string>
+    <string name="food_mitchells">Mitchell\'s Ocean Club</string>
+    <string name="food_northstar">Northstar Cafe</string>
+    <string name="food_thurman">The Thurman Cafe</string>
+    <string name="food_diner">Cap City Diner</string>
+    <string name="food_barcelona">Barcelona Restaurant</string>
+    <string name="food_refectory">The Refectory</string>
+
+    <!-- Restaurant addresses -->
+    <string name="address_lindeys">169 E. Beck St., Columbus, OH 43206</string>
+    <string name="address_cucina">1368 Grandview Ave, Columbus, OH 43212</string>
+    <string name="address_mitchells">4002 Easton Station, Columbus, OH 43219</string>
+    <string name="address_northstar">951 N High St, Columbus, OH 43201</string>
+    <string name="address_thurman">183 Thurman Ave., Columbus, OH 43206</string>
+    <string name="address_diner">1299 Olentangy River Rd., Columbus, OH 43212</string>
+    <string name="address_barcelona">263 E. Whittier St., Columbus, OH 43206</string>
+    <string name="address_refectory">1092 Bethel Rd., Columbus, OH 43220</string>
+
+    <!-- Restaurant URLs -->
+    <string name="url_lindeys">http://www.lindeys.com/</string>
+    <string name="url_cucina">http://www.zcucina.com/</string>
+    <string name="url_mitchells">http://www.ocean-prime.com/locations-menus/mitchells-ocean-club</string>
+    <string name="url_northstar">http://www.thenorthstarcafe.com/</string>
+    <string name="url_thurman">https://thethurmancafe.com/</string>
+    <string name="url_diner">http://capcityfinediner.com/Grandview</string>
+    <string name="url_barcelona">http://www.barcelonacolumbus.com/</string>
+    <string name="url_refectory">http://www.therefectoryrestaurant.com/</string>
+
+    <!-- Things To Do names -->
+    <string name="todo_cosi">Center of Science &amp; Industry</string>
+    <string name="todo_zoo">Columbus Zoo</string>
+    <string name="todo_easton">Easton Town Center</string>
+    <string name="todo_gardens">Franklin Park Conservatory</string>
+    <string name="todo_theater">Ohio Theater</string>
+    <string name="todo_market">North Market Farmer\'s Market</string>
+    <string name="todo_arena">Nationwide Arena</string>
+    <string name="todo_village">German Village</string>
+
+    <!-- Things To Do addresses -->
+    <string name="address_cosi">333 W. Broad St., Columbus, OH 43215</string>
+    <string name="address_zoo">4850 W. Powell Rd., Powell, OH 43065</string>
+    <string name="address_easton">160 Easton Town Ctr, Columbus, OH 43219</string>
+    <string name="address_gardens">1777 E Broad St, Columbus, OH 43203</string>
+    <string name="address_theater">39 E State St, Columbus, OH 43215</string>
+    <string name="address_market">59 Spruce St, Columbus, OH 43215</string>
+    <string name="address_arena">200 W Nationwide Blvd, Columbus, OH 43215</string>
+    <string name="address_village">588 S 3rd St, Columbus, OH 43215</string>
+
+    <!-- Things To Do URLs -->
+    <string name="url_cosi">http://www.cosi.org/</string>
+    <string name="url_zoo">https://www.columbuszoo.org/</string>
+    <string name="url_easton">http://eastontowncenter.com/</string>
+    <string name="url_gardens">http://fpconservatory.org/</string>
+    <string name="url_theater">http://www.capa.com/venues/ohio-theatre</string>
+    <string name="url_market">http://www.northmarket.com/</string>
+    <string name="url_arena">http://www.nationwidearena.com/</string>
+    <string name="url_village">https://germanvillage.com/</string>
+
+</resources>
